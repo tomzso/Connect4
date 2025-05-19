@@ -11,7 +11,7 @@ Connect4 is a classic two-player connection game in which the players first choo
 
 ## Game Screenshot
 
-![Connect4 Game Screenshot](images/connect4game.jpg)
+![Connect4 Game Screenshot](connect4game.jpg)
 
 > Make sure the image file is placed inside an `images` folder in your project root.
 
