@@ -21,14 +21,19 @@ Connect4 is a classic two-player connection game in which the players first choo
 
 ```bash
 erl
+```
 
 2. Load all the modules using the following commands:
 
+```bash
 c(ai).
 c(logic).
 c(board).
 c(connect4).
+```
 
 3. Start the game:
 
+```bash
 connect4:start().
+```
