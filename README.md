@@ -15,7 +15,7 @@ Connect4 is a classic two-player connection game in which the players first choo
 
 > Make sure the image file is placed inside an `images` folder in your project root.
 
-## 🚀 How to Run
+## How to Run
 
 1. Launch Erlang on your PC with terminal:
 
